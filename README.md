@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on creating software
 - 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on anything that interests me
+- 👯 I’m looking to collaborate on anything interesting; Construction, AR/VR, Cloud, Security, Hacking, CTF's, etc.
 - 🤔 I’m looking for help with Revit and Dynamo
 - 💬 Ask me about anything :)
 - 📫 How to reach me: Check below
