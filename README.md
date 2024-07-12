@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lazaro A. Herrera</h1>
 
-- 🔭 I’m currently working on creating software
-- 🌱 I’m currently using C#
+- 🔭 I’m currently working on OSCP
+- 🌱 I’m currently using C#, python, powershell, lua
 - 👯 I’m looking to collaborate on anything interesting; Construction, AR/VR, Cloud, Security, Hacking, CTF's, etc.
 - 🤔 I’m looking for help with Revit and Dynamo
 - 💬 Ask me about anything :)
